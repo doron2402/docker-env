@@ -1,0 +1,12 @@
+{
+  "database": {
+    "mongo": {
+      "host": "mongodb",
+      "database": "test-app",
+      "collections": {
+        "users": "users",
+        "follow": "follow"
+      }
+    }
+  }
+}
